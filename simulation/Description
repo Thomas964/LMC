@@ -2,4 +2,14 @@ DESCRITPION DE LA SIMULATION
 
 Le but de la simulation, est de modeliser l'évolution d'une masse d'air plus chaude dans une atmosphére statique.
 
-On utilisera le C++ pour des raisons de rapidité de calcul.
+On utilisera le C++ pour des raisons de rapidité de calcules.
+
+1er étape:
+
+Il s'agira dans un premier temps de comprendre (partiellement) la POO. On se concentrera sur la classe "particule". On doit rentrer 
+les méthodes. Calculer la temerature, pression et pression de vapeur satturante en fonction de l'altitude. On s'occupera aussi du mouvement 
+de chaque particules, c'est à dire le PDF. Rien de compliqué ici on considére juste le pouséée d'Archiméde et le poids. Tout le mouvement se
+fera autour de la différence de densité. Notre masse d'air va être divisé en plusieurs petite sphére. Chaque sphére est caractérisé par sa température
+sa pression de vapeur satturante, sa densité. 
+
+
