@@ -1,0 +1,5 @@
+DESCRITPION DE LA SIMULATION
+
+Le but de la simulation, est de modeliser l'évolution d'une masse d'air plus chaude dans une atmosphére statique.
+
+On utilisera le C++ pour des raisons de rapidité de calcul.
