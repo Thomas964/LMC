@@ -7,11 +7,7 @@ ainsi que de connaitre un minimun l'atmosphére. On finira par une petite simula
 Dans cette simulation, on étudiera l'elevation d'une masse d'air ainsi que l'évolution de la vapeur satturante en fonction
 de l'altitude.
 
-Contenus: Sur ce git, vous trouverez:
--Le code la simulation
--Un journal de bord quotidien
--Les sources
--Le scripte
+Sur ce git vous trouverez: Le code la simulation, un journal de bord quotidien, les sources, le scripte.
 
 
 
